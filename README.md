@@ -42,7 +42,7 @@ When I got stuck, I used VS Code's debugger to step through my own code line by 
 
 ## Output Example
 
-This is an example of myself and my brother creating a copiuos amount of background noise while playing a 8500Hz frequency from an app on my phone. Although quite obvious, I found it interesting to see that the frquency graph captured a sort of 'hidden data point' that the waveform didn't. Not a groundbreaking discovery by any means but it peaked my interest.
+This is an example of myself and my brother creating a copiuos amount of background noise while playing a 8500Hz frequency from an app on my phone. Although quite obvious, I found it interesting to see that the frquency graph captured a sort of 'hidden data point' that the waveform didn't. Not a groundbreaking discovery by any means but it peaked my interest. Additionally, there is a gap at around 13500Hz which is interesting. This could be a result of an HVAC system producing a destructive interference like an Active Noise Cancelling effect. I will look out for this in the future.
 
 <img width="638" height="477" alt="Screenshot 2026-08-20 at 2 05 06 PM" src="https://github.com/user-attachments/assets/165d7851-b09a-4bf9-9f03-973f0f1eb452" />
 
